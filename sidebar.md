@@ -6,6 +6,7 @@
 
 ## 目录
 0. [前言](#README)
+0. [相关命令](#docs/command)
 0. [参考资料](#docs/reference)
 
 ## 附录 
